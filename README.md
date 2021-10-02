@@ -12,7 +12,7 @@ Diagrama:
 <br>
 <br>
 
-<a href="https://ibb.co/xff9h22"><img src="https://i.ibb.co/X330XWW/Diagrama-de-classes-FM.png" alt="Diagrama-de-classes-FM" border="0"></a>
+<a href="https://ibb.co/PgWT5Sz"><img src="https://i.ibb.co/3cFf0JY/imagem-2021-10-01-220421.png" alt="imagem-2021-10-01-220421" border="0"></a>
 
 
 ## 💥 Modelo Decorator
