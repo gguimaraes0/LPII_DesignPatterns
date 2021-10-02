@@ -1,6 +1,6 @@
 package com.company;
 
-interface IVehicle {
-    void StartRoute();
-    void GetCargo();
+public interface IVehicle {
+    void startRoute();
+    void getCargo();
 }

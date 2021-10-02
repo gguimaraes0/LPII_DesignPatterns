@@ -2,14 +2,14 @@ package com.company;
 
 class Motorcycle implements IVehicle {
 
-    public void GetCargo()
+    public void getCargo()
     {
         System.out.println("Pegamos a encomenda.");
     }
 
-    public void StartRoute()
+    public void startRoute()
     {
         System.out.println("Iniciando a entrega.");
-        GetCargo();
+        getCargo();
     }
 }
