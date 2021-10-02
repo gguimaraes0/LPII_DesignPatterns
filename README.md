@@ -12,7 +12,7 @@ Diagrama:
 <br>
 <br>
 
-<a href="https://ibb.co/mhvhYMW"><img src="https://i.ibb.co/JrxrbMJ/imagem-2021-10-01-222023.png" alt="imagem-2021-10-01-222023" border="0"></a>
+<a href="https://ibb.co/bJJLNkd"><img src="https://i.ibb.co/PQQ41dC/imagem-2021-10-01-224438.png" alt="imagem-2021-10-01-224438" border="0"></a>
 
 
 ## 💥 Modelo Decorator
