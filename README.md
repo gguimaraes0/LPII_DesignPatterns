@@ -32,5 +32,5 @@ Diagrama:
 - Clarice Yamaoka Bravo 081190016
 - Gustavo Santos Guimarães 081180013
 - Michael Matheus De Silva Oliveira 082180038
--
--
+- Gustavo Pepinelli Salgado 081190006
+- Rodrigo Kawaura Montemor 081190012
